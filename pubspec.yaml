@@ -1,6 +1,6 @@
 name: json_store
 description: A Flutter storage solution somewhat similar to a browser's localStorage (but super powered)
-version: 1.4.0
+version: 1.4.1
 homepage: https://github.com/fstof/flutter_json_store
 
 environment:
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  encrypt: ^4.1.0
+  encrypt: ^5.0.0
   flutter_secure_storage: ^4.1.0
   path_provider: ^2.0.1
   sqflite: ^2.0.0+3 
